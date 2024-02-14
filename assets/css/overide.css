@@ -24,3 +24,8 @@ p.hero-subtitle {
 .line-mf-left {
     margin: 0;
 }
+.line-mf {
+    background-color: #386E77;
+    border-radius: 10px;
+    width: 100px;
+}
