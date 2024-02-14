@@ -1,0 +1,26 @@
+.navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover>a {
+    color:#000;
+    font-weight: 700;
+}
+.navbar a, .navbar a:focus,
+.hero .hero-title {
+    color: #353535;
+}
+.navbar>ul>li>a:before {
+    background-color: #353535;
+}
+#header.header-scrolled {
+    background: #e7e7e7;
+}
+#header .logo img {
+    max-height: 90px;
+  }
+#hero img {
+    max-height: 300px;
+}
+p.hero-subtitle {
+    color: #000;
+}
+.line-mf-left {
+    margin: 0;
+}
