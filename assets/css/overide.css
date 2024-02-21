@@ -29,3 +29,16 @@ p.hero-subtitle {
     border-radius: 10px;
     width: 100px;
 }
+span.s-description-bold {
+    font-weight: 700;
+}
+.service-box .s-title {
+    text-transform: none;
+}
+#services .container .row .col-md-4 {
+    display: table;
+}
+
+#services .container .row .col-md-4 .service-box {
+    display: table-cell;
+}
